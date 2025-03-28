@@ -1,4 +1,4 @@
-#HQuery - JQuery for Heaps
+# HQuery - JQuery for Heaps
 
 But not really. This isn't about QUERYING the dom or CHAINING the methods. This is about having a simplified interface for creating heaps objects. 
 
