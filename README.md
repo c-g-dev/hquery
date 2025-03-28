@@ -4,7 +4,7 @@ But not really. This isn't about QUERYING the dom or CHAINING the methods. This 
 
 ```haxe
 
-var o = new HQuery();
+var o = new HQuery(); //HQuery is just an abstract wrapping h2d.Object. Minimally invasive and can be used everywhere
 o.x(50);
 o.y(50);
 o.width(100);
